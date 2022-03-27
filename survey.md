@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Red
+Favorite food: Vitrina Burger
+Favorite musician/band: Anderson paak
+Favorite movie: Matrix
+Requested grade in the course: 100
